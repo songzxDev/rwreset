@@ -1,0 +1,26 @@
+2019-02-05 15:16:48 下午 [Thread: main][ Class:org.songzx.rwreset.decorator.LoggerFacTest >> Method: org.songzx.rwreset.decorator.JsonFormatLoggerDecorator.error(JsonFormatLoggerDecorator.java:17) ]
+ERROR:
+ {
+	"code": 0,
+	 "data": {
+		"status": 1,
+		"number": "215646454",
+		"account_name": "吴系挂",
+		"type":"中国银行" ,
+		"address": "某某支行",
+		"icon": "http://xxx.xxx.xx"
+	}
+}
+2019-02-05 21:14:26 下午 [Thread: main][ Class:org.songzx.rwreset.decorator.LoggerFacTest >> Method: org.songzx.rwreset.decorator.JsonFormatLoggerDecorator.error(JsonFormatLoggerDecorator.java:17) ]
+ERROR:
+ {
+	"code": 0,
+	 "data": {
+		"status": 1,
+		"number": "215646454",
+		"account_name": "吴系挂",
+		"type":"中国银行" ,
+		"address": "某某支行",
+		"icon": "http://xxx.xxx.xx"
+	}
+}
